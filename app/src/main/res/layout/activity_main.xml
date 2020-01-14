@@ -22,7 +22,7 @@
         android:background="@drawable/button_bg_round_purple"
         android:paddingTop="10dp"
         android:paddingBottom="10dp"
-        android:text="@string/text_btn_count_en"
+        android:text="@string/text_btn_count_id"
         android:textColor="@color/color_white"
         android:textSize="40sp" />
 
@@ -33,7 +33,7 @@
         android:background="@drawable/button_bg_round_blue"
         android:paddingTop="10dp"
         android:paddingBottom="10dp"
-        android:text="@string/text_btn_reset_en"
+        android:text="@string/text_btn_reset_id"
         android:textColor="@color/color_white"
         android:textSize="40sp" />
 
