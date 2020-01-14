@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DzikirApp</string>
+    <string name="tv_count_text">0</string>
+    <string name="text_btn_count_en">Count</string>
+    <string name="text_btn_reset_en">Reset</string>
+    <string name="text_btn_count_id">Hitung</string>
+    <string name="text_btn_reset_id">Ulang</string>
+</resources>
